@@ -1,1 +1,1 @@
-# Jogo da Velha simples utilizando React
+# Jodo da Velha simples utilizando React
