@@ -1,2 +1,1 @@
-# jogo-da-velha
-Jogo da Velha simples utilizando React
+# Jogo da Velha simples utilizando React
